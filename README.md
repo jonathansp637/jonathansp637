@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Morales</h1>
 
 <h3 align="center">A software enginner in progress.</h3>
-<h4 align="center"><img src="https://midu.dev/images/wallpapers/una-taza-de-javascript.png" alt="jonathansp637" height="300" width="400"/> </h4>
+<h4 align="center"><img src="[https://midu.dev/images/wallpapers/una-taza-de-javascript.png](https://d2k7w3fmrpj0w4.cloudfront.net/advices/photos/000/000/798/large/c37cf21c04a7582027aaf0e7e3e328ebfcf5f850.jpg?1642017136)" alt="jonathansp637" height="300" width="400"/> </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathansp637&label=Profile%20views&color=0e75b6&style=flat" alt="jonathansp637" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
